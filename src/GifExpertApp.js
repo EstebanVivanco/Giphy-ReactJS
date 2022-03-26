@@ -3,7 +3,7 @@ import { AddCategory } from './components/AddCategory'
 
 export const GifExpertApp = () => {
 
-  const [categories, setCategories] = useState(['One Punch Man','Samurai X','Kimetsu No Yaiba'])
+  const [categories, setCategories] = useState(['One Punch Man','Samurai X','Kimetsu No Yaiba','Jujutsu Kaisen'])
 
 //   const handleAdd = () => {
 
