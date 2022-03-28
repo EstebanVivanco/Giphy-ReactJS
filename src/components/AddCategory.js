@@ -1,5 +1,7 @@
 import React, { useState } from 'react'
 import PropTypes from 'prop-types';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faDog } from '@fortawesome/free-solid-svg-icons';
 
 export const AddCategory = ({setCategories}) => {
 
@@ -23,7 +25,10 @@ export const AddCategory = ({setCategories}) => {
     return (
         <form onSubmit={handleSubmit}>
 
-            <h2>Add Category</h2>
+            <h2>Buscar <FontAwesomeIcon icon={faDog} /> </h2>
+
+            {/* npm i @fortawesome/react-fontawesome */}
+            
             <input
                 type="text"
                 value={inputValue}
