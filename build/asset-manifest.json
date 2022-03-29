@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.16d4c9d0.css",
+    "main.js": "/static/js/main.f5275acc.js",
+    "static/media/stacked-peaks-haikei.svg": "/static/media/stacked-peaks-haikei.8199a9ba40e1205aee76.svg",
+    "index.html": "/index.html",
+    "main.16d4c9d0.css.map": "/static/css/main.16d4c9d0.css.map",
+    "main.f5275acc.js.map": "/static/js/main.f5275acc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16d4c9d0.css",
+    "static/js/main.f5275acc.js"
+  ]
+}
