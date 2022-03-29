@@ -2,14 +2,7 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 body {
-  background: rgb(2, 0, 36);
-  background: linear-gradient(
-    90deg,
-    rgba(2, 0, 36, 1) 7%,
-    rgba(28, 27, 117, 1) 30%,
-    rgba(8, 77, 222, 1) 47%,
-    rgba(0, 212, 255, 1) 92%
-  );
+  background: #bbc4d6;
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
